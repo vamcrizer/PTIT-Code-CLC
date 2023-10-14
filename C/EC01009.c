@@ -1,3 +1,5 @@
+//Bài làm đã được tham khảo nguồn khác
+
 #include <stdio.h>
 #include <math.h>
 
